@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "どこかで日は昇る",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2025-12-04T18:31:29.941117Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "どこかで日は昇る - Remastered 2020",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/01_どこかで日は昇る_-_Remastered_2020_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "どこかで日は昇る",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/02_どこかで日は昇る_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "どこかで日は昇る - Dokokade Hi Wa Noboru",
+      "artist": "Mrs.GREEN APPLE",
+      "has_synced": true,
+      "path": "select/03_どこかで日は昇る_-_Dokokade_Hi_Wa_Noboru_Mrs.GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "どこかで日は昇る - Dokokade Hi Wa Noboru",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/04_どこかで日は昇る_-_Dokokade_Hi_Wa_Noboru_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "どこかで日は昇る",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/05_どこかで日は昇る_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "どこかで日は昇る - Album Mix",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/06_どこかで日は昇る_-_Album_Mix_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "どこかで日は昇る (Album Mix) - Dokokade Hi Wa Noboru (Ensemble Mix)",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/07_どこかで日は昇る_(Album_Mix)_-_Dokokade_Hi_Wa_Noboru_(Ensemble_Mix)_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "どこかで日は昇る - Dokokade Hi Wa Noboru",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/08_どこかで日は昇る_-_Dokokade_Hi_Wa_Noboru_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "どこかで日は昇る（Album Mix）",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/09_どこかで日は昇る(Album_Mix)_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "どこかで日は昇る",
+      "artist": "Mrs. Green Apple",
+      "has_synced": false,
+      "path": "select/pl_01_どこかで日は昇る_Mrs._Green_Apple.txt"
+    }
+  ]
+}
